@@ -4,7 +4,7 @@ info:
   title: Red Hat Openshift SmartEvents Fleet Manager V2
   description: The API exposed by the fleet manager of the SmartEvents service.
   contact:
-    name: Development Team this is a
+    name: Development Team
     email: openbridge-dev@redhat.com
   license:
     name: Apache 2.0
