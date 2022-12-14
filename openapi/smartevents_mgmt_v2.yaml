@@ -1,7 +1,7 @@
 ---
 openapi: 3.0.3
 info:
-  title: Red Hat Openshift SmartEvents Fleet Manager v2
+  title: Red Hat Openshift SmartEvents Fleet Manager
   description: The API exposed by the fleet manager of the SmartEvents service.
   contact:
     name: Development Team
