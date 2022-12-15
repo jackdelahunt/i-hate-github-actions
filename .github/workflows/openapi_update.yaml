@@ -25,4 +25,4 @@ jobs:
           token: ${{ env.PAT }}
           repository: ${{ matrix.repo }}
           event-type: openapi-spec-change
-          client-payload: '{ "id": "smartevents-mgmt/v2", "download_url":"https://raw.githubusercontent.com/jackdelahunt/i-hate-github-actions/main/openapi/smartevents_mgmt_v2.yaml"}'
+          client-payload: '{ "id": "smartevents-mgmt/v2", "download_url":"https://sso.redhat.com/auth/realms/redhat-external/apis/openapi.yaml"}'
